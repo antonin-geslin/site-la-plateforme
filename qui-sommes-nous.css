@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
 
+* {
+    font-family: 'Roboto Slab', serif;
+}
+
 html {
     overflow-x: hidden;
-    font-family: 'Roboto Slab', serif;
 }
 
 body {
     margin: 0;
-    margin-top: 204px;
     background-color:#ffffff;
 }
 
